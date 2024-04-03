@@ -1,0 +1,30 @@
+
+    JS
+
+    JavaScript è un linguaggio di scripting interpretato, ampiamente utilizzato 
+    per aggiungere interattività e funzionalità dinamiche alle pagine web. 
+    È supportato da tutti i principali browser e può essere eseguito lato client 
+    (nel browser) o lato server (ad esempio con Node.js). JavaScript è un linguaggio 
+    non tipizzato, il che significa che non è necessario dichiarare il tipo di una 
+    variabile prima di utilizzarla, e le variabili possono contenere valori di diversi tipi.
+
+
+    TS
+
+    TypeScript, d'altra parte, è un super insieme di JavaScript, che introduce il concetto
+    di tipizzazione statica opzionale. È un linguaggio di programmazione open-source sviluppato
+    da Microsoft. Con TypeScript, è possibile specificare il tipo di variabili, argomenti delle 
+    funzioni e valori di ritorno dei metodi. Questo consente al compilatore di TypeScript di 
+    identificare gli errori di tipo prima dell'esecuzione del codice, migliorando la robustezza 
+    e la manutenibilità del codice. Inoltre, TypeScript fornisce funzionalità aggiuntive, come le
+    interfacce per la definizione di contratti tra diverse parti del codice e le unioni di tipi 
+    per lavorare con tipi multipli.
+
+
+        Un altro vantaggio di TypeScript è la sua capacità di generare codice JavaScript valido, 
+        che può essere eseguito in qualsiasi motore JavaScript, inclusi i browser. Ciò significa 
+        che è possibile scrivere il codice in TypeScript, sfruttando tutte le sue funzionalità, 
+        e poi compilarlo in JavaScript per l'esecuzione.
+
+
+    
